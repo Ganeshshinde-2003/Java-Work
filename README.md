@@ -27,3 +27,7 @@ To use the code in this repository, you can either call the methods directly fro
 To explore the Main.java file, simply open it in your IDE or text editor of choice. You can read through the comments to learn about each concept and see examples of how they can be used.
 
 Feel free to use the code in this repository as a reference for your own Java projects, or to modify it to fit your own needs.
+
+
+# Calculator Mini-Project
+
