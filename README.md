@@ -11,3 +11,8 @@ Before you can run the Java code in this repository, you'll need to have the fol
 
 - Java Development Kit (JDK)
 - An Integrated Development Environment (IDE) such as Eclipse or IntelliJ
+
+## Installation
+
+Once you have cloned the repository to your local machine and have the necessary prerequisites installed, you can import the code into your IDE and begin working with it.
+
