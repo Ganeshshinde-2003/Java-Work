@@ -26,11 +26,10 @@ To use the code in this repository, you can either call the methods directly fro
 
 To explore the Main.java file, simply open it in your IDE or text editor of choice. You can read through the comments to learn about each concept and see examples of how they can be used.
 
-Feel free to use the code in this repository as a reference for your own Java projects, or to modify it to fit your own needs.
-
-
 # Calculator Mini-Project
 
 This repository also contains a calculator project implemented in Java. The calculator project is a simple command-line application that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
 
 To use the calculator, simply run the Calculator.java file in your IDE or from the command line. You will be prompted to enter the first number, the second number and the choice to select the operator. The calculator will then perform the requested operation and display the result.
+
+Feel free to use the calculator project as a starting point for your own Java projects, or to modify it to fit your own needs.
