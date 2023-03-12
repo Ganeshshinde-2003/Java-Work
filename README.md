@@ -31,3 +31,6 @@ Feel free to use the code in this repository as a reference for your own Java pr
 
 # Calculator Mini-Project
 
+This repository also contains a calculator project implemented in Java. The calculator project is a simple command-line application that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
+
+To use the calculator, simply run the Calculator.java file in your IDE or from the command line. You will be prompted to enter the first number, the second number and the choice to select the operator. The calculator will then perform the requested operation and display the result.
