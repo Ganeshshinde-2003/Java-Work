@@ -3,7 +3,7 @@ This repository contains Java code written over the last few days, including a c
 ## Getting Started
 To get started with this repository, you can simply clone it to your local machine using the command:
 
-```git clone https://github.com/your-username/java-code-repo.git```
+```https://github.com/Ganeshshinde-2003/Java-Work.git```
 
 ## Prerequisites
 
